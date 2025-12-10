@@ -67,10 +67,8 @@ main.py → Main program & menu logic
 ## 📸 Screenshots
 
 ### 🔐 Recruiter Module
-![Recruiter Register](link-recruiter-register.png)  
-![Recruiter Login](link-recruiter-login.png)  
-![Post Job](link-post-job.png)  
-![View Applicants](link-view-applicants.png)  
+![Screenshot](https://github.com/Reethika-ctrl/Mini-Jobportal/raw/main/Screenshot%202025-11-23%20123951.png)
+  
 
 ---
 
