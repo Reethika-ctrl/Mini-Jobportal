@@ -85,3 +85,18 @@ main.py → Main program & menu logic
 ### 1️⃣ Install dependencies
 ```bash
 pip install mysql-connector-python
+2️⃣ Configure database in db.py
+3️⃣ Run the application
+python main.py
+
+📌 Summary
+
+A clean and functional job portal demonstrating:
+
+Python–MySQL integration
+
+Modular programming
+
+Role-based authentication
+
+Real-time data operations
