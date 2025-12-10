@@ -51,7 +51,7 @@ main.py → Main program & menu logic
 
 > 📌 Upload your ER diagram → then replace the link below
 
-![ER Diagram](Mini Job Portal.png)
+![ER Diagram](https://github.com/Reethika-ctrl/Mini-Jobportal/raw/main/Mini%20Job%20Portal.png)
 
 ---
 
@@ -59,7 +59,8 @@ main.py → Main program & menu logic
 
 > 📌 Upload your Use Case diagram → replace link
 
-![Use Case Diagram](link-to-your-usecase-diagram.png)
+![Use Case Diagram](https://github.com/Reethika-ctrl/Mini-Jobportal/raw/main/Screenshot%202025-11-23%20120257.png)
+)
 
 ---
 
