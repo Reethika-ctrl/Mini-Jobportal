@@ -75,9 +75,7 @@ main.py → Main program & menu logic
 ---
 
 ### 👤 Job Seeker Module
-![Job Seeker Login](link-jobseeker-login.png)  
-![View Jobs](link-view-jobs.png)  
-![Apply Job](link-apply-job.png)
+![Screenshot](https://github.com/Reethika-ctrl/Mini-Jobportal/raw/main/Screenshot%202025-11-22%20165310.png)
 
 ---
 
