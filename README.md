@@ -51,7 +51,7 @@ main.py → Main program & menu logic
 
 > 📌 Upload your ER diagram → then replace the link below
 
-![ER Diagram](link-to-your-er-diagram.png)
+![ER Diagram](Mini Job Portal.png)
 
 ---
 
