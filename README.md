@@ -1,69 +1,87 @@
-Mini Job Portal
+# 📌 Mini Job Portal
 
-A simple console-based Python application integrated with MySQL, designed for two user roles: Recruiters and Job Seekers. The system supports job posting, job viewing, and application management through a clean modular structure.
+A simple console-based Python application integrated with MySQL, designed for two user roles: **Recruiters** and **Job Seekers**.  
+The system supports job posting, job viewing, and application management through a clean and modular architecture.
 
-🚀 Features
-Recruiter
+---
 
-Register & Login
+## 🚀 Features
 
-Post Jobs
+### 👨‍💼 Recruiter
+- Register & Login  
+- Post Jobs  
+- View Applicants  
 
-View Applicants
+### 👩‍💻 Job Seeker
+- Register & Login  
+- View Jobs  
+- Apply for Jobs  
 
-Job Seeker
+---
 
-Register & Login
+## 🛠️ Technologies Used
+- **Python**
+- **MySQL**
+- **mysql-connector-python**
 
-View Jobs
+---
 
-Apply for Jobs
+## 📂 Project Structure
+db.py → Database connection
+recruiter.py → Recruiter features
+jobseeker.py → Job seeker features
+main.py → Main program & menu logic
 
-🛠 Technologies Used
 
-Python
+---
 
-MySQL
+## 🔄 How the System Works
+- Users register as **Recruiter** or **Job Seeker**  
+- Recruiters can:
+  - Post jobs  
+  - View applicants  
+- Job seekers can:
+  - View all available jobs  
+  - Apply for jobs  
+- All data is stored and retrieved using **MySQL**  
 
-mysql-connector-python
+---
 
-📂 Project Structure
-db.py          - Database connection
-recruiter.py   - Recruiter features
-jobseeker.py   - Job seeker features
-main.py        - Main program & menu logic
+## 🗄️ Database Design (ER Diagram)
 
-🔄 How It Works
+> 📌 Upload your ER diagram → then replace the link below
 
-Users register as recruiter or job seeker.
+![ER Diagram](link-to-your-er-diagram.png)
 
-Recruiters post jobs and view applicants.
+---
 
-Job seekers view all jobs and apply.
+## 🎭 Use Case Diagram
 
-All interactions are stored and retrieved using MySQL.
+> 📌 Upload your Use Case diagram → replace link
 
-🗄 Database Tables
+![Use Case Diagram](link-to-your-usecase-diagram.png)
 
-users – stores recruiters & job seekers
+---
 
-jobs – job postings
+## 📸 Screenshots
 
-applications – job applications linked to jobs & seekers
+### 🔐 Recruiter Module
+![Recruiter Register](link-recruiter-register.png)  
+![Recruiter Login](link-recruiter-login.png)  
+![Post Job](link-post-job.png)  
+![View Applicants](link-view-applicants.png)  
 
-▶️ Running the Project
+---
 
-Install dependencies:
+### 👤 Job Seeker Module
+![Job Seeker Login](link-jobseeker-login.png)  
+![View Jobs](link-view-jobs.png)  
+![Apply Job](link-apply-job.png)
 
+---
+
+## ▶️ Running the Project
+
+### 1️⃣ Install dependencies
+```bash
 pip install mysql-connector-python
-
-
-Update MySQL credentials in db.py
-
-Run the app:
-
-python main.py
-
-✅ Summary
-
-A simple and functional job portal demonstrating Python–MySQL integration, modular programming, and role-based interactions.
